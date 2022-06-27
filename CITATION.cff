@@ -4,8 +4,8 @@ authors:
 - family-names: "Schulthess"
   given-names: "Ivo"
   orcid: "https://orcid.org/0000-0002-5621-2462"
-title: "dataAnalysis"
+title: "Data and Analysis"
 version: 1.0.0
-#doi: 10.5281/zenodo.1234
-#date-released: 2022-06-26
+doi: 10.5281/zenodo.6758223
+date-released: 2022-06-26
 url: "https://github.com/ivoschulthess/dataAnalysis"
